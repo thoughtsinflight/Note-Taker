@@ -1,2 +1,8 @@
-# notetaker
-https://unchar.bootcampcontent.com/The-Coding-Bootcamp/UNC-CHA-FSF-FT-10-2019-U-C/tree/master/01-Class-Content/11-express/02-Homework
+# Notetaker
+    Notetaker is an app that allows users to views previously made notes, add additional notes and delete notes.
+## Motivation
+    I wanted to become more familiar with express routing and managing data throught CRUD requests.
+## What I Learned
+    I learned more about express npm and deploying apps to heroku
+## Link
+    https://infinite-dusk-40735.herokuapp.com/
