@@ -4,7 +4,8 @@
   "description": "https://unchar.bootcampcontent.com/The-Coding-Bootcamp/UNC-CHA-FSF-FT-10-2019-U-C/tree/master/01-Class-Content/11-express/02-Homework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
